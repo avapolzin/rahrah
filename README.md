@@ -15,7 +15,7 @@ sudo python3 setupy.py install
 ````
 or 
 ```bash
-pip install albumpl
+pip install rahrah
 ```
 
 If you use this package or the scripts in this repository in a publication, please add a footnote linking to https://github.com/avapolzin/rahrah and/or consider adding this software to your acknowledgments. If you would like to cite `rahrah`, please use the Zenodo DOI linked here. 
