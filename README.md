@@ -1,4 +1,6 @@
 # `rahrah`
+[![DOI](https://zenodo.org/badge/894175735.svg)](https://doi.org/10.5281/zenodo.14300869)
+
 University-inspired matplotlib color palettes and colormaps. Colors are taken directly from University branding guidelines, so there is no specific effort toward perceptual uniformity or accessibility for color blindness beyond the aesthetic choices I made in putting the palettes/colormaps together. Please check your plots/figures with [COBLIS](https://www.color-blindness.com/coblis-color-blindness-simulator/) or similar.
 
 ## Installation
@@ -19,6 +21,27 @@ pip install rahrah
 ```
 
 If you use this package or the scripts in this repository in a publication, please add a footnote linking to https://github.com/avapolzin/rahrah and/or consider adding this software to your acknowledgments. If you would like to cite `rahrah`, please use the Zenodo DOI linked here. 
+
+```tex
+@software{polzin_2024_14300870,
+  author       = {Polzin, Ava},
+  title        = {rahrah: University-inspired matplotlib color
+                   palettes and colormaps
+                  },
+  month        = dec,
+  year         = 2024,
+  publisher    = {Zenodo},
+  version      = {v0.2},
+  doi          = {10.5281/zenodo.14300870},
+  url          = {https://doi.org/10.5281/zenodo.14300870}
+  swhid        = {swh:1:dir:f5517cf3ee10e03d2c923acbd60ed486ecd5c5ed
+                   ;origin=https://doi.org/10.5281/zenodo.14300869;vi
+                   sit=swh:1:snp:2d43321672bb3a4c51509ddeb4bf5b0140bf
+                   a2cc;anchor=swh:1:rel:5dc42309dc4c017dde7bd8f68ed1
+                   f12e49e8b584;path=/
+                  },
+}
+```
 
 
 I'd love to feature plots/figures that make use of these palettes in the wild, so should these palettes be of use, please send me a copy of that figure and/or a link to your paper or presentation and I will share it here.
