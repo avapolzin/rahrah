@@ -1,7 +1,9 @@
 # `rahrah`
 [![DOI](https://zenodo.org/badge/894175735.svg)](https://doi.org/10.5281/zenodo.14300869)
 
-University-inspired matplotlib color palettes and colormaps. Colors are taken directly from University branding guidelines, so there is no specific effort toward perceptual uniformity or accessibility for color blindness beyond the aesthetic choices I made in putting the palettes/colormaps together. Please check your plots/figures with [COBLIS](https://www.color-blindness.com/coblis-color-blindness-simulator/) or similar.
+University-inspired matplotlib color palettes and colormaps. Perfect for theming talks and posters or just showing your loyalty to/love for a particular institution :)
+
+Colors are taken directly from University branding guidelines, so there is no specific effort toward perceptual uniformity or accessibility for color blindness beyond the aesthetic choices I made in putting the palettes/colormaps together. Please check your plots/figures with [COBLIS](https://www.color-blindness.com/coblis-color-blindness-simulator/) or similar.
 
 ## Installation
 To install:
