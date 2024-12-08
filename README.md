@@ -217,3 +217,4 @@ return_colors('BrownBright')
 ```
 
 The lightness of all colormaps is shown below (all sequential maps are shown dark-to-light for easier comparison):
+![rahrahlightness 001](https://github.com/user-attachments/assets/ed734692-9ee7-4500-bf25-4e97af3af455)
