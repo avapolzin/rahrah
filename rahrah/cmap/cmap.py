@@ -61,7 +61,7 @@ maps['OrangeSt'] = ['#bd5319', '#f9f9f9', '#00356b']
 ##########
 
 
-def get_map(name, reverse_cmap):
+def get_map(name, reverse_cmap = False):
 	"""
 	Access colormaps.
 

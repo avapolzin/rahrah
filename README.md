@@ -226,7 +226,7 @@ set_default_cmap('Yale')
 
 ```python
 import matplotlib.pyplot as plt
-from rahrah.cmap import * #yes, this is bad practice, but easiest in this case!
+import rahrah.cmap
 
 plt.imshow(image, cmap = 'USC')
 ```
