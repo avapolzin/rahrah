@@ -1,11 +1,11 @@
 import matplotlib
 import matplotlib.pyplot as plt
-from matplotlib import LinearSegmentedColormap
+from matplotlib.colors import LinearSegmentedColormap
 
 maps = {}
 maps['Brown'] = ['#ffffff', '#ed1c24', '#4e3629']
 maps['BrownBright'] = ['#b7b09c', '#4e3629']
-maps['Thayer'] = ['#ed1c24', '#ffffff', '4e3629']
+maps['Thayer'] = ['#ed1c24', '#ffffff', '#4e3629']
 maps['Caltech'] = ['#ffffff', '#ff6c0c']
 maps['CaltechBright'] = ['#00a1df', '#ffffff', '#ff6c0c']
 maps['CarnegieMellon'] = ['#6d6e71', '#ffffff', '#c41230']
@@ -82,10 +82,12 @@ def register_all():
 	Register all of the colormaps.
 	"""
 	for k in maps.keys():
-		cmap = LinearSegmentedColormap.from_list(k, maps[k])
-		cmap_r = LinearSegmentedColormap.from_list(k+"_r", maps[k][::-1])
-		plt.register_cmap(cmap=cmap)
-		plt.register_cmap(cmap = cmap_r)
+		if k not in matplotlib.pyplot.colormaps():
+			cmap = LinearSegmentedColormap.from_list(k, maps[k])
+			plt.register_cmap(cmap=cmap)
+		if k+"_r" not in matplotlib.pyplot.colormaps():
+			cmap_r = LinearSegmentedColormap.from_list(k+"_r", maps[k][::-1])
+			plt.register_cmap(cmap = cmap_r)
 
 register_all()
 

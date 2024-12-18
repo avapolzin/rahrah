@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
 	name = "rahrah",
-	version = "0.2",
+	version = "0.5",
 	author = "Ava Polzin",
 	author_email = "apolzin@uchicago.edu",
 	description = "University-inspired Matplotlib palettes and colormaps.",
