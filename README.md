@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/349e6078-e5de-4030-a1b5-34a8e229b504" width=30%> [![DOI](https://zenodo.org/badge/894175735.svg)](https://doi.org/10.5281/zenodo.14300869)
+<img src="https://github.com/user-attachments/assets/349e6078-e5de-4030-a1b5-34a8e229b504" width=50%> [![DOI](https://zenodo.org/badge/894175735.svg)](https://doi.org/10.5281/zenodo.14300869)
 
 University-inspired matplotlib color palettes and colormaps. Colors are taken directly from University branding guidelines, so there is no specific effort toward perceptual uniformity or accessibility for color blindness beyond the aesthetic choices I made in putting the palettes/colormaps together. Please check your plots/figures with [COBLIS](https://www.color-blindness.com/coblis-color-blindness-simulator/) or similar.
 
