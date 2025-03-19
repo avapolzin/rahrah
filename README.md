@@ -302,9 +302,9 @@ set_default('Northwestern')
 
 - **To set a palette as default for color cycle *or* colormap:**
 ```python
-from rahrah.palette import set_default_ccyle, set_default_cmap
+from rahrah.palette import set_default_ccycle, set_default_cmap
 
-set_default_ccyle('ChicagoBright')
+set_default_ccycle('ChicagoBright')
 ```
 *or*
 ```python
