@@ -1,8 +1,11 @@
 import setuptools
+from pathlib import Path
+rahrah_home = Path(__file__).parent
+pypi_descrip = (rahrah_home / "README.md").read_text()
 
 setuptools.setup(
 	name = "rahrah",
-	version = "0.5",
+	version = "0.5.5",
 	author = "Ava Polzin",
 	author_email = "apolzin@uchicago.edu",
 	description = "University-inspired Matplotlib palettes and colormaps.",
@@ -15,5 +18,7 @@ setuptools.setup(
 		"Operating System :: OS Independent",
 		"Programming Language :: Python"],
 	python_requires = ">=3",
-	install_requires = ["matplotlib"]
+	install_requires = ["matplotlib"],
+	long_description=pypi_descrip,
+	long_description_content_type='text/markdown'
 )
