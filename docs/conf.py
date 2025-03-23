@@ -191,12 +191,12 @@ rst_epilog = """
             :alt: terrapins
             :width: 200px
 .. |doheny| image:: https://github.com/user-attachments/assets/b4513bc6-157e-4eb1-9f0f-940c025361d4
-            :alt: doheny 
-            :width: 200px          
+            :alt: doheny
+            :width: 200px
 .. |dubs| image:: https://github.com/user-attachments/assets/e782fc9f-be81-4499-ba92-ed3716fa6a86
             :alt: dubs
             :width: 200px
-.. |wellesleyblue| image:: https://github.com/user-attachments/assets/f2e00ebb-c2f6-4543-a973-1046277587c
+.. |wellesleyblue| image:: https://github.com/user-attachments/assets/f2e00ebb-c2f6-4543-a973-1046277587ce
             :alt: wellesley-blue
             :width: 200px
 .. |orangest| image:: https://github.com/user-attachments/assets/b06017bd-e405-451f-b3cd-604ae0ac493b

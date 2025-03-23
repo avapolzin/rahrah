@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/414c5db6-828c-4fd2-9bb0-1010ed59eecb" width=50%> [![DOI](https://zenodo.org/badge/894175735.svg)](https://doi.org/10.5281/zenodo.14300869)
+<img src="https://github.com/user-attachments/assets/414c5db6-828c-4fd2-9bb0-1010ed59eecb" width=50%> [![Documentation Status](https://readthedocs.org/projects/rahrah/badge/?version=latest)](https://rahrah.readthedocs.io/en/latest/?badge=latest)[![DOI](https://zenodo.org/badge/894175735.svg)](https://doi.org/10.5281/zenodo.14300869)
 
 University-inspired matplotlib color palettes and colormaps. Colors are taken directly from University branding guidelines, so there is no specific effort toward perceptual uniformity or accessibility for color blindness beyond the aesthetic choices I made in putting the palettes/colormaps together. Please check your plots/figures with [COBLIS](https://www.color-blindness.com/coblis-color-blindness-simulator/) or similar.
 

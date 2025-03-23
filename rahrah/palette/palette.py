@@ -310,7 +310,7 @@ palettes['Penn']['cmap'] = ['#011f5b', '#ffffff', '#990000']
 palettes['Penn']['ncolors'] = 4
 palettes['Penn']['maptype'] = "diverging"
 
-palettes['Pitt']['cycle'] = [['#003594', '#ffb81c', '#c8c9c7', '#00205b', '#b87333', '#dbeeff']
+palettes['Pitt']['cycle'] = ['#003594', '#ffb81c', '#c8c9c7', '#00205b', '#b87333', '#dbeeff']
 palettes['Pitt']['cmap'] = ['#003594', '#ffb81c']
 palettes['Pitt']['ncolors'] = 6
 palettes['Pitt']['maptype'] = "sequential"
