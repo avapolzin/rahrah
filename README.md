@@ -56,7 +56,7 @@ Included palettes (to now):
 1. __Albion__ (Albion College)
 ![Albion_summary](https://github.com/user-attachments/assets/b493bcb1-f8c5-4778-b809-bdfe65b01c65)
 
-2. __ASU__ (Arizona Statr University)
+2. __ASU__ (Arizona State University)
 ![ASU_summary](https://github.com/user-attachments/assets/b226b06e-2815-4e28-9e88-36ffc8b98099)
 
 3. __Brown__ (Brown University)
