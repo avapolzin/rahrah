@@ -13,7 +13,7 @@ The palette options (to now) are broken out by region below.
 American Midwest
 ----------------
 
-Universities in Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, and Wisconsin
+Universities in Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, and Wisconsin.
 
 * **Albion** (Albion College)
 |albion|
@@ -63,7 +63,7 @@ Universities in Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, 
 * **Wisconsin** (University of Wisconsin)
 |wisconsin|
 
-And additional colormaps:
+And additional standalone colormaps:
 
 |purpleline|
 
@@ -71,7 +71,7 @@ And additional colormaps:
 American Northeast
 ------------------
 
-Universitiies in Connecticut, Delaware, Maine, Maryland, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, and Vermont.
+Universities in Connecticut, Delaware, Maine, Maryland, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, and Vermont.
 
 * **Brown** (Brown University)
 |brown|
@@ -154,7 +154,7 @@ Universitiies in Connecticut, Delaware, Maine, Maryland, Massachusetts, New Hamp
 * **Yale** (Yale University)
 |yale|
 
-And additional colormaps:
+And additional standalone colormaps:
 
 |thayer| |biggreen| |terrapins|
 |wellesleyblue| |orangest|
@@ -252,7 +252,7 @@ Universities in Alaska, California, Colorado, Hawaii, Idaho, Montana, Nevada, Or
 * **Washington** (University of Washington)
 |washington|
 
-And additional colormaps:
+And additional standalone colormaps:
 
 |gobears| |buffs| |doheny|
 |dubs|
@@ -277,6 +277,8 @@ United Kingdom
 * **Oxford** (University of Oxford)
 |oxford|
 
+
+About the sample images: For sequential colormaps, the sample image is photometric *HST* data of the dwarf galaxy `COSMOS-dw1 <https://ui.adsabs.harvard.edu/abs/2021ApJ...914L..23P/abstract>`_ in F814W. The sample image for diverging colormaps is an HI velocity map of the galaxy `M33 from GALFA-HI <https://ui.adsabs.harvard.edu/abs/2009ApJ...703.1486P/abstract>`_.
 
 These palettes and colormaps are designed based on university branding guidelines instead of emphasizing perceptual uniformity. Most are still pretty good in this regard, but, just for everyone's peace of mind, following ``matplotlib``, the lightness of each colormap as a function of index is shown below (all sequential maps are shown dark-to-light for easier comparison).
 

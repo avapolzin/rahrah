@@ -14,7 +14,7 @@ How to use ``rahrah``:
 
 	list_palettes()
 
-*You can also filter for number of colors in the color cycle or type of colormap (sequential/diverging) with the arguments `mincolors` and `maptype`.*
+You can also filter for number of colors in the color cycle or type of colormap (sequential/diverging) with the arguments mincolors and maptype.
 
 * **To list all colormaps:**
 
