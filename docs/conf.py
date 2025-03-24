@@ -10,7 +10,7 @@ copyright = '2024, Ava Polzin'
 author = 'Ava Polzin'
 root_doc = 'index'
 
-release = '0.5.5'
+release = '0.6'
 
 extensions = [
 	'sphinx_rtd_theme',
@@ -204,5 +204,35 @@ rst_epilog = """
             :width: 200px
 .. |lightnessv0.5| image:: https://github.com/user-attachments/assets/ed734692-9ee7-4500-bf25-4e97af3af455
             :alt: lightness-v0.5
+.. |ubc| image:: https://github.com/user-attachments/assets/ed5eca1e-9cb6-4fe8-b059-7d81ac104ade
+            :alt: ubc
+.. |kentucky| image:: https://github.com/user-attachments/assets/e3d2c1ff-c814-4ada-8926-078b9cb6b5d1
+            :alt: kentucky
+.. |amherst| image:: https://github.com/user-attachments/assets/be023d81-5c3a-4318-a110-094f69410bb7
+            :alt: amherst
+.. |harveymudd| image:: https://github.com/user-attachments/assets/8a8d2e4b-c6c1-4e16-ae9b-d67167253a1b
+            :alt: harvey-mudd
+.. |middlebury| image:: https://github.com/user-attachments/assets/ba6dd9bb-2e97-4370-8c96-c7a68e59b927
+            :alt: middlebury         
+.. |bowdoin| image:: https://github.com/user-attachments/assets/ce003524-d78f-4317-965e-60b20874888a
+            :alt: bowdoin
+.. |haverford| image:: https://github.com/user-attachments/assets/032ad2d5-6c4c-4dd3-a5d1-8214cad370cf
+            :alt: haverford
+.. |colgate| image:: https://github.com/user-attachments/assets/8620edae-c5f7-4aea-83f0-428116ed95e8
+            :alt: colgate         
+.. |oberlin| image:: https://github.com/user-attachments/assets/03d98801-a759-4e12-89d7-d17abc2865be
+            :alt: oberlin
+.. |niu| image:: https://github.com/user-attachments/assets/29c24250-eb37-40de-9091-8487f9f0a712
+            :alt: niu
+.. |cuny| image:: https://github.com/user-attachments/assets/4f0eeb89-227d-4784-868d-709869aa20bc
+            :alt: cuny          
+.. |syracuse| image:: https://github.com/user-attachments/assets/b8f02665-89a2-4b60-981f-58ebf5feff4a
+            :alt: syracuse
+.. |qub| image:: https://github.com/user-attachments/assets/cb2b1f0a-f064-4cd0-b628-9989ad4e0039
+            :alt: qub
+.. |qubbright| image:: https://github.com/user-attachments/assets/daa0d4a3-ec89-4088-9e6a-96501f36da40
+            :alt: qub-bright
+.. |gsu| image:: https://github.com/user-attachments/assets/e7aa415c-d317-48ed-b394-23eb685a4820
+            :alt: georgia-state
 
 """

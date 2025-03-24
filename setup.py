@@ -5,7 +5,7 @@ pypi_descrip = (rahrah_home / "README.md").read_text()
 
 setuptools.setup(
 	name = "rahrah",
-	version = "0.5.5",
+	version = "0.6",
 	author = "Ava Polzin",
 	author_email = "apolzin@uchicago.edu",
 	description = "University-inspired Matplotlib palettes and colormaps.",

@@ -88,7 +88,7 @@ Included palettes (to now):
 19. __GeorgiaTech__ (Georgia Institute of Technology)
 ![GeorgiaTech_summary](https://github.com/user-attachments/assets/e55095eb-438a-48d6-b82a-2dddb88b0016)
 
-20. __GeorgiaState__ (Georgia State University)
+20. __GSU__ (Georgia State University)
 ![GeorgiaState_summary](https://github.com/user-attachments/assets/e7aa415c-d317-48ed-b394-23eb685a4820)
 
 21. __Harvard__ (Harvard University)

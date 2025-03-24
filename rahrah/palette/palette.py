@@ -15,10 +15,20 @@ palettes['Albion']['cmap'] = ['#4b306a', '#ffc845']
 palettes['Albion']['ncolors'] = 6
 palettes['Albion']['maptype'] = "sequential"
 
+palettes['Amherst']['cycle'] = ['#3f1f69', '#0099bc', '#505061', '#df723d', '#458246', '#b7a5d3']
+palettes['Amherst']['cmap'] = ['#ffffff', '#3f1f69']
+palettes['Amherst']['ncolors'] = 6
+palettes['Amherst']['maptype'] = "sequential"
+
 palettes['ASU']['cycle'] = ['#8c1d40', '#ffc627', '#000000', '#747474', '#4ab7c4', '#af674b']
 palettes['ASU']['cmap'] = ['#ffc627', '#8c1d40', '#000000']
 palettes['ASU']['ncolors'] = 6
 palettes['ASU']['maptype'] = "sequential"
+
+palettes['Bowdoin']['cycle'] = ['#00506a', '#730051', '#955021', '#9b2822', '#1d5c57', '#687c2f']
+palettes['Bowdoin']['cmap'] = ['#ffffff', '#000000']
+palettes['Bowdoin']['ncolors'] = 6
+palettes['Bowdoin']['maptype'] = "sequential"
 
 palettes['Brown']['cycle'] = ['#4e3629', '#ed1c24', '#98a4ae', '#ffc72c']
 palettes['Brown']['cmap'] = ['#ffffff', '#ed1c24', '#4e3629']
@@ -49,6 +59,16 @@ palettes['CarnegieMellonBright']['cycle'] = ['#941120', '#6d6e71', '#719f94', '#
 palettes['CarnegieMellonBright']['cmap'] = ['#182c4b', '#ffffff', '#941120']
 palettes['CarnegieMellonBright']['ncolors'] = 6
 palettes['CarnegieMellonBright']['maptype'] = "diverging"
+
+palettes['CUNY']['cycle'] = ['#0033a1', '#ffb71b', '#011d49', '#a3c9ff']
+palettes['CUNY']['cmap'] = ['#0033a1', '#ffb71b']
+palettes['CUNY']['ncolors'] = 4
+palettes['CUNY']['maptype'] = "sequential"
+
+palettes['Colgate']['cycle'] = ['#821019', '#e10028', '#000000', '#5a646e']
+palettes['Colgate']['cmap'] = ['#821019', '#ffffff']
+palettes['Colgate']['ncolors'] = 4
+palettes['Colgate']['maptype'] = "sequential"
 
 palettes['Columbia']['cycle'] = ['#b9d9eb', '#d0d0ce', '#1d4f91', '#75787b']
 palettes['Columbia']['cmap'] = ['#ffffff', '#b9d9eb', '#1d4f91']
@@ -85,10 +105,25 @@ palettes['GeorgiaTech']['cmap'] = ['#ffffff', '#b3a369']
 palettes['GeorgiaTech']['ncolors'] = 6
 palettes['GeorgiaTech']['maptype'] = "sequential"
 
+palettes['GSU']['cycle'] = ['#0039a6', '#1c272d', '#0d9ddb', '#cc0000']
+palettes['GSU']['cmap'] = ['#ffffff', '#0039a6']
+palettes['GSU']['ncolors'] = 4
+palettes['GSU']['maptype'] = "sequential"
+
 palettes['Harvard']['cycle'] = ['#1e1e1e', '#a51c30', '#8c8179', '#c3d7a4', '#293352', '#bac5c6']
 palettes['Harvard']['cmap'] = ['#ffffff', '#a51c30']
 palettes['Harvard']['ncolors'] = 6
 palettes['Harvard']['maptype'] = "sequential"
+
+palettes['HarveyMudd']['cycle'] = ['#000000', '#fdb913', '#007fa3', '#5b6770']
+palettes['HarveyMudd']['cmap'] = ['#000000', '#fdb913', '#ffffff']
+palettes['HarveyMudd']['ncolors'] = 4
+palettes['HarveyMudd']['maptype'] = "sequential"
+
+palettes['Haverford']['cycle'] = ['#8b0000', '#000000', '#cccccc', '#5da423', '#666666', '#2ba6cb']
+palettes['Haverford']['cmap'] = ['#000000', '#8b0000', '#ffffff']
+palettes['Haverford']['ncolors'] = 6
+palettes['Haverford']['maptype'] = "sequential"
 
 palettes['Indiana']['cycle'] = ['#990000', '#243142', '#ffd6db', '#ff636a']
 palettes['Indiana']['cmap'] = ['#ffffff', '#990000']
@@ -115,6 +150,11 @@ palettes['MITBright']['cmap'] = ['#ffffff', '#750014']
 palettes['MITBright']['ncolors'] = 6
 palettes['MITBright']['maptype'] = "sequential"
 
+palettes['Middlebury']['cycle'] = ['#0d395f', '#aaa59f', '#fdd16d', '#4c4b4c']
+palettes['Middlebury']['cmap'] = ['#0d395f', '#ffffff']
+palettes['Middlebury']['ncolors'] = 4
+palettes['Middlebury']['maptype'] = "sequential"
+
 palettes['McGill']['cycle'] = ['#ed1b2f', '#999999', '#27bdbe', '#44c8f5', '#b2d235', '#c768a9']
 palettes['McGill']['cmap'] = ['#ffffff', '#ed1b2f']
 palettes['McGill']['ncolors'] = 6
@@ -140,6 +180,11 @@ palettes['NYU']['cmap'] = ['#57068c', '#ffffff']
 palettes['NYU']['ncolors'] = 4
 palettes['NYU']['maptype'] = "sequential"
 
+palettes['NIU']['cycle'] = ['#c8102e', '#000000', '#a5a7a8', '#d0df00']
+palettes['NIU']['cmap'] = ['#000000', '#c8102e', '#ffffff']
+palettes['NIU']['ncolors'] = 4
+palettes['NIU']['maptype'] = "sequential"
+
 palettes['Northwestern']['cycle'] = ['#4e2a84', '#007fa4', '#ef553f', '#008656', '#ffc520', '#0d2d6c']
 palettes['Northwestern']['cmap'] = ['#ffffff', '#4e2a84']
 palettes['Northwestern']['ncolors'] = 6
@@ -149,6 +194,11 @@ palettes['NotreDame']['cycle'] = ['#0c2340', '#ae9142', '#0a843d', '#1c4f8f']
 palettes['NotreDame']['cmap'] = ['#0c2340', '#ae9142']
 palettes['NotreDame']['ncolors'] = 4
 palettes['NotreDame']['maptype'] = "sequential"
+
+palettes['Oberlin']['cycle'] = ['#a6192e', '#e81727', '#ffc72c', '#585252']
+palettes['Oberlin']['cmap'] = ['#ffc72c', '#e81727']
+palettes['Oberlin']['ncolors'] = 4
+palettes['Oberlin']['maptype'] = "sequential"
 
 palettes['OhioState']['cycle'] = ['#ba0c2f', '#a7b1b7', '#6bbbab', '#70071c']
 palettes['OhioState']['cmap'] = ['#a7b1b7', '#ffffff', '#ba0c2f']
@@ -175,6 +225,16 @@ palettes['Purdue']['cmap'] = ['#000000', '#cfb991']
 palettes['Purdue']['ncolors'] = 4
 palettes['Purdue']['maptype'] = "sequential"
 
+palettes['QUB']['cycle'] = ['#d6000d', '#9b9b9b', '#8f0e20', '#4a4a4a']
+palettes['QUB']['cmap'] = ['#d6000d','#ffffff']
+palettes['QUB']['ncolors'] = 4
+palettes['QUB']['maptype'] = "sequential"
+
+palettes['QUBBright']['cycle'] = ['#d6000d', '#00afab', '#94d604', '#672e6c', '#00a1e1', '#f18903']
+palettes['QUBBright']['cmap'] = ['#d6000d', '#ffffff', '#00afab']
+palettes['QUBBright']['ncolors'] = 6
+palettes['QUBBright']['maptype'] = "diverging"
+
 palettes['Reed']['cycle'] = ['#a70e16', '#000000', '#7e8a65', '#dfe7e7', '#e84a37', '#3f6574']
 palettes['Reed']['cmap'] = ['#eceae4', '#a70e16', '#000000']
 palettes['Reed']['ncolors'] = 6
@@ -195,10 +255,20 @@ palettes['StonyBrook']['cmap'] = ['#000000', '#990000', '#bebebe']
 palettes['StonyBrook']['ncolors'] = 6
 palettes['StonyBrook']['maptype'] = "sequential"
 
+palettes['Syracuse']['cycle'] = ['#f76900', '#000e54', '#eb3300', '#f2a900']
+palettes['Syracuse']['cmap'] = ['#000e54', '#f76900','#ffffff']
+palettes['Syracuse']['ncolors'] = 4
+palettes['Syracuse']['maptype'] = "sequential"
+
 palettes['Arizona']['cycle'] = ['#ab0520', '#0c234b', '#378dbd', '#f4ede5', '#a95c42', '#007d84']
 palettes['Arizona']['cmap'] = ['#ab0520', '#ffffff', '#0c234b']
 palettes['Arizona']['ncolors'] = 6
 palettes['Arizona']['maptype'] = "diverging"
+
+palettes['UBC']['cycle'] = ['#002145', '#6ec4e8', '#0055b7', '#00a7e1']
+palettes['UBC']['cmap'] = ['#002145', '#ffffff']
+palettes['UBC']['ncolors'] = 4
+palettes['UBC']['maptype'] = "sequential"
 
 palettes['Berkeley']['cycle'] = ['#002676', '#808080', '#fdb515', '#770747', '#010133', '#c09748']
 palettes['Berkeley']['cmap'] = ['#ffffff', '#fdb515', '#002676']
@@ -254,6 +324,11 @@ palettes['Kansas']['cycle'] = ['#0051ba', '#e8000d', '#ffc82d', '#85898a']
 palettes['Kansas']['cmap'] = ['#e8000d', '#ffc82d', '#0051ba']
 palettes['Kansas']['ncolors'] = 4
 palettes['Kansas']['maptype'] = "diverging"
+
+palettes['Kentucky']['cycle'] = ['#0033a0', '#ffa360', '#1b365d', '#4cbcc0', '#ffdc00', '#1e8aff']
+palettes['Kentucky']['cmap'] = ['#ffffff', '#0033a0']
+palettes['Kentucky']['ncolors'] = 6
+palettes['Kentucky']['maptype'] = "sequential"
 
 palettes['Maryland']['cycle'] = ['#e21833', '#ffd200', '#e6e6e6', '#000000']
 palettes['Maryland']['cmap'] = ['#ffd200', '#ffffff', '#e21833']

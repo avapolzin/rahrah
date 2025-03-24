@@ -24,11 +24,17 @@ Universities in Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, 
 * **MichiganState** (MichiganState University)
 |michiganstate|
 
+* **NIU** (Northern Illinois University)
+|niu|
+
 * **Northwestern** (Northwestern University)
 |northwestern|
 
 * **NotreDame** (Notre Dame University)
 |notredame|
+
+* **Oberlin** (Oberlin College and Conservtory)
+|oberlin|
 
 * **OhioState** (The Ohio State University)
 |ohiostate|
@@ -73,6 +79,12 @@ American Northeast
 
 Universities in Connecticut, Delaware, Maine, Maryland, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, and Vermont.
 
+* **Amherst** (Amherst College)
+|amherst|
+
+* **Bowdoin** (Bowdoin College)
+|bowdoin|
+
 * **Brown** (Brown University)
 |brown|
 
@@ -85,6 +97,9 @@ Universities in Connecticut, Delaware, Maine, Maryland, Massachusetts, New Hamps
 * **CarnegieMellonBright** (Carnegie Mellon University)
 |carnegiemellonbright|
 
+* **Colgate** (Colgate University)
+|colgate|
+
 * **Columbia** (Columbia University)
 |columbia|
 
@@ -94,6 +109,9 @@ Universities in Connecticut, Delaware, Maine, Maryland, Massachusetts, New Hamps
 * **Cornell** (Cornell University)
 |cornell|
 
+* **CUNY** (City University of New York)
+|cuny|
+
 * **Dartmouth** (Dartmouth College)
 |dartmouth|
 
@@ -102,6 +120,9 @@ Universities in Connecticut, Delaware, Maine, Maryland, Massachusetts, New Hamps
 
 * **Harvard** (Harvard University)
 |harvard|
+
+* **Haverford** (Haverford College)
+|haverford|
 
 * **JohnsHopkins** (Johns Hopkins University)
 |johnshopkins|
@@ -114,6 +135,9 @@ Universities in Connecticut, Delaware, Maine, Maryland, Massachusetts, New Hamps
 
 * **MITBright** (Massachusetts Institute of Technology)
 |mitbright|
+
+* **Middlebury** (Middlebury College)
+|middlebury|
 
 * **NYU** (New York University)
 |nyu|
@@ -129,6 +153,9 @@ Universities in Connecticut, Delaware, Maine, Maryland, Massachusetts, New Hamps
 
 * **StonyBrook** (The State University of New York at Stony Brook)
 |stonybrook|
+
+* **Syracuse** (Syracuse University)
+|syracuse|
 
 * **UConn** (University of Connecticut)
 |uconn|
@@ -171,8 +198,14 @@ Universities in Alabama, Arkansas, Florida, Georgia, Kentucky, Louisiana, Missis
 * **GeorgiaTech** (Georgia Institute of Technology)
 |georgiatech|
 
+* **GSU** (Georgia State University)
+|gsu|
+
 * **NCState** (North Carolina State University)
 |ncstate|
+
+* **Kentucky** (University of Kentucky)
+|kentucky|
 
 * **UNC** (University of North Carolina Chapel Hill)
 |unc|
@@ -219,6 +252,9 @@ Universities in Alaska, California, Colorado, Hawaii, Idaho, Montana, Nevada, Or
 * **CaltechBright** (California Institute of Technology)
 |caltechbright|
 
+* **HarveyMudd** (Harvey Mudd College)
+|harveymudd|
+
 * **OregonState** (Oregon State University)
 |oregonstate|
 
@@ -264,12 +300,21 @@ Canada
 * **McGill** (McGill University)
 |mcgill|
 
+* **UBC** (University of British Columbia)
+|ubc|
+
 * **Toronto** (University of Toronto)
 |toronto|
 
 
 United Kingdom
 --------------
+
+* **QUB** (Queen's University Belfast)
+|qub|
+
+* **QUBBright** (Queen's University Belfast)
+|qubbright|
 
 * **Cambridge** (University of Cambridge)
 |cambridge|
