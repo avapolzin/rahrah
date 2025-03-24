@@ -126,13 +126,15 @@ def register_all():
 	"""
 	Register all of the colormaps.
 	"""
+
+
 	for k in maps.keys():
 		if k not in matplotlib.pyplot.colormaps():
 			cmap = LinearSegmentedColormap.from_list(k, maps[k])
-			plt.register_cmap(cmap=cmap)
+			matplotlib.colormaps.register(cmap=cmap)
 		if k+"_r" not in matplotlib.pyplot.colormaps():
 			cmap_r = LinearSegmentedColormap.from_list(k+"_r", maps[k][::-1])
-			plt.register_cmap(cmap = cmap_r)
+			matplotlib.colormaps.register(cmap = cmap_r)
 
 register_all()
 
