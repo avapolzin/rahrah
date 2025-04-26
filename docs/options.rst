@@ -237,7 +237,7 @@ Universities in Arizona, New Mexico, Oklahoma, and Texas.
 * **Arizona** (University of Arizona)
 |arizona|
 
-* **Texas** (Univeresity of Texas)
+* **Texas** (University of Texas)
 |texas|
 
 
